@@ -21,7 +21,5 @@ describe('Visit Image Captains page, validate sample out,place holder,heading an
         cy.get('textarea') && cy.get('textarea').type('one two three', { force: true });
         cy.get('.formButton',{force:true}).click()
         cy.get('.googleButton').click()
-        
-
     })
 })
