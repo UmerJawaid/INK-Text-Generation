@@ -22,7 +22,7 @@ describe('Visit Image Captains page, validate sample out,place holder,heading an
         cy.waitFor('.marketing-banner')
         cy.get('.marketing-banner > p').should('have.text', 'You got the perfect Twitter content. Now what?')
         cy.get('.resultHeader > p').should('have.text', 'RESULTS')
-        cy.get('.Muibutton-label > .createText textCreate').should('have.text', 'Create More')
+        // cy.get('.Muibutton-label > .createText textCreate').should('have.text', 'Create More')
 
     })
 })
