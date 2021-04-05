@@ -1,5 +1,6 @@
 [
   {
+    "index": "0",
     "forRealease": true,
     "master": "❌",
     "category": "Social Media",
@@ -14,12 +15,13 @@
     "sampleoutput": "Inspired by the Startup Manifesto, we're going to be talking about what will have the biggest impact on our society in the future. Let's get ready for 2020. #startup"
   },
   {
+    "index": "1",
     "forRealease": true,
     "master": "❌",
     "category": "Social Media",
     "subcategory": "Twitter",
     "toolName": "Image Captions",
-    "url": "Twitter-Image-Caption",
+    "url": "twitter-image-caption",
     "introtext": "Let INK generate a caption to go with your Twitter image for you.",
     "i1label": "What is your post about?",
     "i1sampletext": "INK is product of the month in Product Hunt!",
@@ -28,34 +30,37 @@
     "sampleoutput": "Too excited to put this one in writing but we’re doing a little shout out to our friends at Product Hunt who voted our product as their product of the month. We’re honored to be this month’s pick!"
   },
   {
+    "index": "2",
     "forRealease": true,
     "master": "❌",
     "category": "Social Media",
     "subcategory": "Twitter",
     "toolName": "Bullet Text",
-    "url": "Twitter-Bullet-List",
+    "url": "twitter-bullet-list",
     "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
     "i1label": "Brief concept:",
     "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
     "i1minlength": 35,
     "i1maxlength": 280,
-    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop"
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content \n - Eliminate Writers' block with AI \n - Know exactly how to beat Google with your content \n - Use Emotional Intelligence to make your headlines pop"
   },
   {
+    "index": "3",
     "forRealease": true,
     "master": "❌",
     "category": "Social Media",
     "subcategory": "Twitter",
     "toolName": "Carousel Post",
-    "url": "Twitter-Carousel-Post",
+    "url": "twitter-carousel-post",
     "introtext": "Carousels are an engaging format on Twitter that support up to six swipeable, edge-to-edge images or videos in a single Tweet, that all serve as clickable space and culminate in a user call to action.",
     "i1label": "Twitter Carousel Post Idea:",
     "i1sampletext": "Carousels are an engaging format on Twitter that support up to six swipeable, edge-to-edge images or videos in a single Tweet, that all serve as clickable space and culminate in a user call to action.",
     "i1minlength": 35,
     "i1maxlength": 280,
-    "sampleoutput": "Hook: You've started a new site and need to grow quickly?\n1: Start building a brand new website from this checklist \n2: Get a domain named to match your SEO goals \n3: Start building a blog \n4: Follow the checklist \n5: Get on INK\nCTA: Use the link in the roundup to get your website setup!"
+    "sampleoutput": "Hook: You've started a new site and need to grow quickly? \n 1: Start building a brand new website from this checklist \n 2: Get a domain named to match your SEO goals \n 3: Start building a blog \n 4: Follow the checklist \n 5: Get on INK \n CTA: Use the link in the roundup to get your website setup!"
   },
   {
+    "index": "4",
     "forRealease": true,
     "master": "❌",
     "category": "Social Media",
