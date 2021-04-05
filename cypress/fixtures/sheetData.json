@@ -1,0 +1,4262 @@
+[
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Brainstorm Topics",
+    "url": "twitter-topic-brainstorm",
+    "introtext": "Get inspired! Let us help you with your Twitter brainstorm!",
+    "i1label": "Describe your topic",
+    "i1sampletext": "INK helps Startup Co-Founders building product and to figure out growth marketing & SEO with AI.",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Inspired by the Startup Manifesto, we're going to be talking about what will have the biggest impact on our society in the future. Let's get ready for 2020. #startup"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Image Captions",
+    "url": "Twitter-Image-Caption",
+    "introtext": "Let INK generate a caption to go with your Twitter image for you.",
+    "i1label": "What is your post about?",
+    "i1sampletext": "INK is product of the month in Product Hunt!",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Too excited to put this one in writing but we’re doing a little shout out to our friends at Product Hunt who voted our product as their product of the month. We’re honored to be this month’s pick!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Bullet Text",
+    "url": "Twitter-Bullet-List",
+    "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Carousel Post",
+    "url": "Twitter-Carousel-Post",
+    "introtext": "Carousels are an engaging format on Twitter that support up to six swipeable, edge-to-edge images or videos in a single Tweet, that all serve as clickable space and culminate in a user call to action.",
+    "i1label": "Twitter Carousel Post Idea:",
+    "i1sampletext": "Carousels are an engaging format on Twitter that support up to six swipeable, edge-to-edge images or videos in a single Tweet, that all serve as clickable space and culminate in a user call to action.",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Hook: You've started a new site and need to grow quickly?\n1: Start building a brand new website from this checklist \n2: Get a domain named to match your SEO goals \n3: Start building a blog \n4: Follow the checklist \n5: Get on INK\nCTA: Use the link in the roundup to get your website setup!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Call to Action",
+    "url": "twitter-cta-generator",
+    "introtext": "Include call to actions in your content: short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content",
+    "qacomments": "When I1 is optional enable create button if there is no data on I1"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Twitter",
+    "toolName": "Product Showcase",
+    "url": "twitter-product-showcase",
+    "introtext": "Generate a social message to showcase your product or service.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI\r\n",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK is a fully automated platform that can provide content material to optimize search engine outcomes. It is used by Co-Founders, marketing agencies, and SEO experts to estimate and optimize search engine ranking for their brands.",
+    "qacomments": "When I1 is optional enable create button if there is no data on I1"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Image Captions",
+    "url": "Facebook-Image-Caption",
+    "introtext": "Generate a caption to go with your Facebook image.",
+    "i1label": "What is your post about?",
+    "i1sampletext": "INK is product of the month in Product Hunt!",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "When our first product ever hit Product Hunt in November, we were insanely excited. It was surprising to us and many others to see the response we got. Our first product!"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Primary Text *ads*",
+    "url": "Facebook-Primary-Text",
+    "introtext": "Generate your Facebook Ad Primary text",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI\n",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Quickly get in front of your target audience and increase your online presence!",
+    "qacomments": "Product name should be same.\nchange I1 as optional field."
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Bullet Text",
+    "url": "Facebook-Bullet-Text",
+    "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop",
+    "qacomments": "Sample output should be break in new text"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Carousel Post",
+    "url": "Facebook-Carousel-Post",
+    "introtext": "The carousel format lets you show 2 or more images and/or videos in a single ad, each with its own headline, description, link and call to action. You can use carousel ads to: Feature multiple products that link to different landing pages. Give customers more options and help raise your clickthrough rate.\n",
+    "i1label": "Facebook Carousel Ad Concept:",
+    "i1sampletext": "An SEO checklist for my new site",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Hook: You've started a new site and need to grow quickly?\r\n1: Start building a brand new website from this checklist \r\n2: Get a domain named to match your SEO goals \r\n3: Start building a blog \r\n4: Follow the checklist \r\n5: Get on INK\r\nCTA: Use the link in the roundup to get your website setup!",
+    "qacomments": "Sample output should be break in new text"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Call to Action",
+    "url": "Facebook-cta-generator",
+    "introtext": "Include call to actions in your content: short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content",
+    "qacomments": "When I1 is optional enable create button if there is no data on I1"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Brainstorm Topics",
+    "url": "Facebook-topic-brainstorm",
+    "introtext": "Save time! Let INK help you with your Facebook topic brainstorm!",
+    "i1label": "Describe your topic",
+    "i1sampletext": "INK helps Startup Co-Founders building product and to figure out growth marketing & SEO with AI.",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "INK is your partner in growth marketing and SEO. Let's chat about your startup to see how we can help you create better content!"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Facebook Headlines *ads*",
+    "url": "facebook-ads-headline",
+    "introtext": "Generate a Facebook Ad Headline text.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK powers your SEO content!",
+    "qacomments": "Tool name should be same\nI1 should be optional "
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Product Showcase",
+    "url": "facebook-product-showcase",
+    "introtext": "Generate a social message to showcase your product or service.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK is a fully automated platform that can provide content material to optimize search engine outcomes. It is used by Co-Founders, marketing agencies, and SEO experts to estimate and optimize search engine ranking for their brands.",
+    "qacomments": "I1 should be optional"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Facebook",
+    "toolName": "Video Intro Hook",
+    "url": "facebook-video-hook",
+    "introtext": "Generate a hook for your video to draw viewers in and drive higher engagement.",
+    "i1label": "What is your Facebook video about?",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Want to become a content writing pro?"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Image Captions",
+    "url": "LinkedIn-Image-Caption",
+    "introtext": "Generate a caption to go with your LinkedIn image post",
+    "i1label": "What is your post about?",
+    "i1sampletext": "INK is product of the month in Product Hunt!",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "In honor of Product Hunt's 1 year anniversary, we're celebrating by highlighting incredible products that are similar to what we've been posting here. This month, we love INK, our giveaway #winner!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Bullet Text",
+    "url": "LinkedIn-Bullet-Text",
+    "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop",
+    "qacomments": "Sample output should be break in new text"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Carousel Post",
+    "url": "linkedin-carousel-post",
+    "introtext": "LinkedIn Carousel ads are one form of Sponsored Content that feature a swipeable series of cards. You can showcase multiple offers/products which helps you provide more insights for your audience.",
+    "i1label": "LinkedIn carousel ad concept:",
+    "i1sampletext": "An SEO checklist for my new site",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Hook: You've started a new site and need to grow quickly?\n1: Start building a brand new website from this checklist \n2: Get a domain named to match your SEO goals \n3: Start building a blog \n4: Follow the checklist \n5: Get on INK\nCTA: Use the link in the roundup to get your website setup!",
+    "qacomments": "Sample output should be break in new text"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Call to Action",
+    "url": "Linkedin-cta-generator",
+    "introtext": "Include call to actions in your content: short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content",
+    "qacomments": "I1 should be optional"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Primary Text *ads*",
+    "url": "linkedin-text-ads",
+    "introtext": "Generate your LinkedIn Text Ads",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI\n",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Quickly get in front of your target audience and increase your online presence!",
+    "qacomments": "Product name should be same.\nchange I1 as optional field."
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Brainstorm Topics",
+    "url": "LinkedIn-topic-brainstorm",
+    "introtext": "INK can help you brainstorm about your next LinkedIn topic!",
+    "i1label": "Describe your topic",
+    "i1sampletext": "INK helps Startup Co-Founders building product and to figure out growth marketing & SEO with AI.",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "AI helps startups iterate faster and reach more customers. Learn how it can help you build your product. #Startup #Ink"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Product Showcase",
+    "url": "linkedin-product-showcase",
+    "introtext": "Generate a social message to showcase your product or service.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI\r\n",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK is a fully automated platform that can provide content material to optimize search engine outcomes. It is used by Co-Founders, marketing agencies, and SEO experts to estimate and optimize search engine ranking for their brands."
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "LinkedIn",
+    "toolName": "Video Intro Hook",
+    "url": "linkedin-video-hook",
+    "introtext": "Generate a hook for your video to draw viewers in and drive higher engagement.",
+    "i1label": "What is your LinkedIn video about?",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Looking for a smarter way to produce content for your website?"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "TikTok",
+    "toolName": "Call to Action",
+    "url": "TikTok-cta-generator",
+    "introtext": "Include call to actions in your content: short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content"
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "TikTok",
+    "toolName": "Video Intro Hook",
+    "url": "TikTok-video-hook",
+    "introtext": "Generate a hook for your video to draw viewers in and drive higher engagement.",
+    "i1label": "What is your TikTok video about?",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Looking for a way to publish content for your website?"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "ClubHouse"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Image Captions",
+    "url": "caption-for-insta-pic",
+    "introtext": "Caption that Insta pic! INK makes a breeze.",
+    "i1label": "What is your post about?",
+    "i1sampletext": "INK is product of the month in Product Hunt!",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "AWARDS SEASON: Check out what Product Hunt has to say about INK!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Bullet Text",
+    "url": "Instagram-Bullet-Text",
+    "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Carousel Post",
+    "url": "carousel-post",
+    "introtext": "Instagram lets you post up to 10 photos or videos as 1 swipeable carousel. Use them to boost engagement and conversion rate.",
+    "i1label": "Instagram Carousel Post Idea:",
+    "i1sampletext": "An SEO checklist for my new site",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Hook: You've started a new site and need to grow quickly?\r\n1: Start building a brand new website from this checklist \r\n2: Get a domain named to match your SEO goals \r\n3: Start building a blog \r\n4: Follow the checklist \r\n5: Get on INK\r\nCTA: Use the link in the roundup to get your website setup!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Call to Action",
+    "url": "Instagram-cta-generator",
+    "introtext": "Include a CTA in your Instagram content: short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content",
+    "qacomments": "I1 min and max length is not defined properly"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Instagram Showcase",
+    "url": "instagram-product-showcase",
+    "introtext": "Generate an Instagram product showcase for your product or service.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK is a fully automated platform that can provide content material to optimize search engine outcomes. It is used by Co-Founders, marketing agencies, and SEO experts to estimate and optimize search engine ranking for their brands.",
+    "qacomments": "I1 should be optional."
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "Instagram",
+    "toolName": "Video Intro Hook",
+    "url": "instagram-video-hook",
+    "introtext": "Generate a hook for your video to draw viewers in and drive higher engagement.",
+    "i1label": "What is your Instagram video about?",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Time for the next step in your content writing progress"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "YouTube",
+    "toolName": "Bullet Text",
+    "url": "YouTube-Bullet-Text",
+    "introtext": "Bullet points in your social post are your secret warriors against skimmers and attention deficit.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the Distraction-Free Editor to write engaging content\r\n- Eliminate Writers' block with AI\r\n- Know exactly how to beat Google with your content\r\n- Use Emotional Intelligence to make your headlines pop"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "YouTube",
+    "toolName": "Description Intro",
+    "url": "YouTube-Description-Intro",
+    "introtext": "Create a YouTube description with just a video description or title!",
+    "i1label": "What is your YouTube video about?",
+    "i1sampletext": "INK is a SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Watch a demonstration of how easy it is to use and how fast it is to create content with INK"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Social Media",
+    "subcategory": "YouTube",
+    "toolName": "Call to Action",
+    "url": "YouTube-cta-generator",
+    "introtext": "Include call to actions in your video and descriptions: short, powerful messages to get your audience to take action.\\",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Editing Editor Powered by AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Buy INK to begin your journey into the world of digital content"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Social Media",
+    "subcategory": "YouTube",
+    "toolName": "Video Intro Hook",
+    "url": "video-hook",
+    "introtext": "Generate a hook for your video to draw viewers in and drive higher engagement.",
+    "i1label": "What is your YouTube video about?",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "Can you really make money by writing content?"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "E-Commerce",
+    "subcategory": "-",
+    "toolName": "Meta Descriptions",
+    "url": "ecommerce-meta-descriptions",
+    "introtext": "Generate optimized and relevant meta description for your content.",
+    "i1label": "Your article title",
+    "i1sampletext": "Parts of Speech Checker Tool | INK",
+    "i1minlength": 20,
+    "i1maxlength": 200,
+    "i2label": "Your primary keyphrase for which you want to be found",
+    "i2sampletext": "parts of speech tool",
+    "i2minlength": 4,
+    "i2maxlength": 35,
+    "sampleoutput": "Use the nouns and pronouns in a sentence to find the preposition. INK Parts of Speech Checker tool can help identify word classes in a sentence."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "E-Commerce",
+    "subcategory": "-",
+    "toolName": "Listicles",
+    "url": "listicles",
+    "introtext": "A listicle is a piece of writing or other content presented wholly or partly as part of a list. Have INK AI write your listicle for you!",
+    "i1label": "What is your E-Commerce copy about?",
+    "i1sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation. In this article, I want to talk about some of the benefits of INK.",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "Title: This is What INK Can Do For You\r\n1. Help you win at content marketing\r\n2. Save time creating optimized content\r\n3. Analyze your competition and score your content\r\n4. Show you how you can improve your content"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "E-Commerce",
+    "subcategory": "-",
+    "toolName": "Product Description",
+    "url": "product-description",
+    "introtext": "Let INK write product descriptions for you.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "INK helps startups find their voice and strategize for growth. We use proprietary AI to analyze the competition for your topic and strategize on how to create optimized content. Plus, our state of the art AI generation will do the bulk of the heavy work. All you need to do is press go!"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Essay Outline",
+    "url": "essay-outline-generator",
+    "introtext": "Create an essay for your outline.",
+    "i1label": "Essay Title",
+    "i1sampletext": "Let INK AI write Your Essay for You",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "i2label": "Brief Concept",
+    "i2sampletext": "An essay about how AI is changing homework essay writing.",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "- INK and the Future of Homework\r\n- What is Predictive Essay?\r\n- How Does AI Work?\r\n- Creating a Truly Original Piece of Work\r\n- Tips for Successful AI Generated Essay\r\n- Share INK with your friends to get more points\r\nConclusion: AI has changed how we create essays. The future of homework is intelligent essay generators that complete all work on your behalf. A predictive essay is an essay that is created using data generated by AI as opposed to information found in your notes or library. Create original work and use some quick tips for success."
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Essay Hook",
+    "url": "hooks-for-essays"
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Subheader Text",
+    "url": "essay-subheader"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Interesting Question Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Strong Statement Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Fact / Statistical Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Metaphor / Simile Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Story Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Description Hook"
+  },
+  {
+    "forRealease": false,
+    "master": true,
+    "category": "Personal",
+    "subcategory": "Essay",
+    "toolName": "Quotation Hook"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "AIDA Copywriting",
+    "url": "aida-model",
+    "introtext": "Generate compelling attention-interest-desire-action sales copy with AI.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "This free AI web tool writes AIDA sales copy for you!",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Attention: This is a revolution in sales copywriting\r\nInterest: INK recreates what's unique about your business and converts it into a compelling story\r\nDesire: Generate compelling sales copy the sophisticated way\r\nAction: Start generating sales copy with INK"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Feature-Advantage-Benefit",
+    "url": "feature-advantage-benefit",
+    "introtext": "A tool to write FABulous sales copy from a simple concept",
+    "i1label": "Brief Concept",
+    "i1sampletext": "A tool to write feature advantage benefit sales copy from a simple concept",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "Feature: An easy to use tool \r\nAdvantage: Jumpstart your sales process\r\nBenefit: Target your audience"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Feature-to-Benefit",
+    "url": "sales-features-vs-benefits",
+    "introtext": "A feature is a part of your product or service, while a benefit is the positive impact it has on your customer.\r\n",
+    "i1label": "A Feature",
+    "i1sampletext": "A sales copy tool that can help your discover the benefits behind features",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "Save time brainstorming product feature ideas."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Marketing Angles",
+    "url": "marketing-angles",
+    "introtext": "A marketing angle is an approach taken to deliver your messages about an offer to your potential customers.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Machine Learning powers our algorithms to do the heavy lifting for SEO and content marketing, so you can be focused on running your company instead."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Problem-Promise-Proof-Proposal",
+    "url": "4-ps-of-marketing",
+    "introtext": "Use the \"Pro\" system, otherwise called the 4Ps formula, to persuade your audience.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Problem: I am writing content for my business but don't know if Google will like it.\r\nPromise: INK scores your content in real-time so you'll always know how well it's optimized for SEO\r\nProof: A case study demonstrates that you are up to 450% more likely to rank on the first page of Google.\r\nProposal: Download INK to find out how your content scores."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Before-After-Bridge",
+    "url": "what-is-bab",
+    "introtext": "BAB  is a copywriting technique that revolves around the basic idea of getting someone from a bad place to a better place with your help.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Before: I am writing content for my business but don't know if Google will like it.\r\nAfter: I always know how well your content is optimized for SEO thanks to our real-time scoring.\r\nBridge: Download INK to find out how your content scores."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Sales Copy",
+    "subcategory": "-",
+    "toolName": "Pain-Agitate-Solution",
+    "url": "pas-copywriting",
+    "introtext": "Find a customer pain for your product to solve, then agitate: stir it up so it hurts to the point of discomfort, and solve: deliver a solution.\n",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Pain: I'm writing copy but it doesn't rank in Google.\r\nAgitate: If nobody reads my copy, it feels like I wasted my time.\r\nSolution: Score your content right now and let us help you optimize your content for SEO."
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Brainstorming",
+    "subcategory": "Product",
+    "toolName": "Viral Product Ideas",
+    "url": "viral-product-ideas",
+    "introtext": "Imagine product features and promotions that can make you go viral.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Let new users try AI generation with INK points, then encourage them to share INK with friends and reward them with more INK Points."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Brainstorming",
+    "subcategory": "Product",
+    "toolName": "Growth Marketing Ideas",
+    "url": "growth-marketing",
+    "introtext": "Stuck on what you can do to grow your business?",
+    "sampleoutput": "Get a Page on Wikipedia"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Brainstorming",
+    "subcategory": "Product",
+    "toolName": "Next Product",
+    "url": "generate-product-concept-example",
+    "introtext": "Think like Elon Musk and Marc Cuban and discover your next product!",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "An AI that automatically improves your headlines so they get more clicks."
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "AI Writing",
+    "toolName": "Simplify",
+    "url": "Simplify-Sentence",
+    "introtext": "Simplify your sentence",
+    "i1label": "Your Sentence",
+    "i1sampletext": "INK is building advanced features targeting user intent, but even our most basic version helps you optimize for all content types based on audiences most interested in your topic whether you are blogging, educating, or selling. ",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "INK helps you optimize for all content types."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "AI Writing",
+    "toolName": "Rewrite",
+    "url": "rewrite-sentence",
+    "introtext": "Rewrite your sentence",
+    "i1label": "Your Sentence",
+    "i1sampletext": "INK is building advanced features targeting user intent, but even our most basic version helps you optimize for all content types based on audiences most interested in your topic whether you are blogging, educating, or selling. ",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "INK is focused on giving you the tools to predict and optimize content for all types of audiences based on their interests, regardless of whether they're watching streaming videos or reading blog posts."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "AI Writing",
+    "toolName": "Expand",
+    "url": "expand-sentence",
+    "introtext": "Expand your sentence.",
+    "i1label": "Your Sentence",
+    "i1sampletext": "INK is building advanced features targeting user intent, but even our most basic version helps you optimize for all content types based on audiences most interested in your topic whether you are blogging, educating, or selling. ",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "The INK platform is providing advanced features and functionality, but the most basic version of our solution helps you optimize for all content types based on audiences most interested in your topic whether it be blogging, educating, or selling."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Noun Checker",
+    "url": "noun-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Pronoun Checker",
+    "url": "pronoun-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Verb Finder",
+    "url": "verb-finder"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Adverb Checker",
+    "url": "adverb-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Preposition Checker",
+    "url": "preposition-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Interjection Checker",
+    "url": "interjections"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Determiner Checker",
+    "url": "determiner"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Conjunction Checker",
+    "url": "conjunction-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Parts of Speech",
+    "toolName": "Parts of Speech Checker",
+    "url": "parts-of-speech-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Space Counter",
+    "url": "space-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Number Counter",
+    "url": "number-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Letter Counter",
+    "url": "letter-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Word Counter",
+    "url": "word-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Sentence Counter",
+    "url": "sentence-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Counter Tools",
+    "toolName": "Paragraph Counter",
+    "url": "paragraph-counter"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Grade Level",
+    "toolName": "Passive Voice Checker",
+    "url": "passive-voice-checker"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Language Tools",
+    "subcategory": "Grade Level",
+    "toolName": "Reading Level Checker",
+    "url": "reading-level-checker"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "E-Mail",
+    "subcategory": "-",
+    "toolName": "Thank You",
+    "url": "thank-you-email",
+    "introtext": "Save time creating a quick thank you note.",
+    "i1label": "To",
+    "i1sampletext": "Alexander De Ridder",
+    "i1minlength": 20,
+    "i1maxlength": 100,
+    "i2label": "About",
+    "i2sampletext": "Building an AI content generation tool that saves me so much time.",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "Hi Alexander,\r\nI wanted to say thank you for all of your hard work. Your AI tool would have taken me hours of manual work--thank you for creating it."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "E-Mail",
+    "subcategory": "-",
+    "toolName": "Confirmation",
+    "url": "confirmation-email",
+    "introtext": "Confirm anything in record time!",
+    "i1label": "About",
+    "i1sampletext": "INK signup.",
+    "i1minlength": 20,
+    "i1maxlength": 200,
+    "sampleoutput": "Your INK account is now successfully activated. We couldn't be more thrilled with your recent account activation. Thank you for connecting with us and being part of our community."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "E-Mail",
+    "subcategory": "-",
+    "toolName": "Catchy Subject",
+    "url": "catchy-email-subject-lines",
+    "introtext": "Get creative with your subject line.",
+    "i1label": "Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation.",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "Hey, marketing genius, need a marketing genius?"
+  },
+  {
+    "forRealease": false,
+    "i1label": "\\"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Startup Kit",
+    "subcategory": "-",
+    "toolName": "Business Name Generator",
+    "url": "business-name-generator",
+    "introtext": "Get inspired to name your business or product!",
+    "i1label": "Describe your business or product",
+    "i1sampletext": "A content editor that helps content writers rank their content in Google. It is a desktop software that scores content in real time and then gives advice on how to optimize for it.",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "Rank Machine, Ranker, Rankera, CrowdRank"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Startup Kit",
+    "subcategory": "-",
+    "toolName": "Domain Name Generator",
+    "url": "domain-name-generator",
+    "introtext": "Out of ideas? No more!",
+    "i1label": "Describe your business or product",
+    "i1sampletext": "A web based tool that generates copy using AI with a short prompt and the press of a button.",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "Copywonder.com, Writerly.com, DialAWitz.com, AirTools.com, CopyDash.com"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Startup Kit",
+    "subcategory": "-",
+    "toolName": "New Product Launch Announcement",
+    "url": "new-product-launch-announcement",
+    "introtext": "Announce your product effectively for your web launch.",
+    "i1label": "Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "Free AI web content SEO editor - just for writers",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "A new AI web content SEO tool for writers of all levels to effortlessly optimize their content for SEO."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Startup Kit",
+    "subcategory": "-",
+    "toolName": "Feature To Benefit",
+    "url": "features-vs-benefits",
+    "introtext": "Users understand features better when you talk about it as a benefit. Convert your feature to a benefit and ask yourself if this benefit is something your customer cares about.",
+    "i1label": "A Feature",
+    "i1sampletext": "A sales copy tool that can help your discover the benefits behind features",
+    "i1minlength": 20,
+    "i1maxlength": 280,
+    "sampleoutput": "Save time brainstorming product feature ideas."
+  },
+  {
+    "forRealease": true,
+    "category": "Startup Kit",
+    "subcategory": "-",
+    "toolName": "Growth Marketing Ideas",
+    "url": "startup-growth-marketing",
+    "introtext": "Growth Marketing Ideas for your Startup",
+    "sampleoutput": "Get a Page on Wikipedia"
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Blog Ideas",
+    "url": "blog-ideas",
+    "introtext": "Out of ideas for blog content? Let INK give it a spin!",
+    "i1label": "Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "Free AI web content SEO editor - just for writers",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "3 Mistakes Writers Struggle With"
+  },
+  {
+    "forRealease": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Blog Intros",
+    "url": "blog-intro-paragraph",
+    "introtext": "Write killer introductions to your article",
+    "i1label": "Blog Headline",
+    "i1sampletext": "INK just launched an AI-powered copywriting tool you can't ignore",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "As a copywriter, your job is to write copy that speaks to your audience. But how do you know what to say and how to say it? AI-powered writing can help."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Blog Outline",
+    "url": "blog-outline-generator",
+    "introtext": "Create a content outline in seconds!",
+    "i1label": "Blog Headline",
+    "i1sampletext": "How to Increase Website Traffic\r",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "i2label": "Brief Concept",
+    "i2sampletext": "An article about how INK can help you with your online content, where INK is SEO web content writing editor powered by AI",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "- The importance of high-quality content\n- How does INK help you with your online content?\n- What is SEO?\n- Create Content People Want to Read\n-- Offer a Solution and Emphasize Your Unique Points\n-- Viral Content Ideas\nConclusion: We live in the digital world where content is everything, and if you want to succeed you must have high-quality content. The AI editor in INK will help create content people desire to read and share with others. Viral content ideas are easy to find when using a tool like INK.",
+    "qacomments": "Line is not break "
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Hero Text",
+    "url": "website-landing-page-headline-generator",
+    "introtext": "The hero text is the copy that is above the fold on your most valuable sales pages. INK creates copy that is proven to convert.",
+    "i1label": "Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "AI tools that write your landing page headlines for you.",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "AI-Powered Headline Writing Software. Learn how to make more money with less time."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Microcopy",
+    "url": "microcopy",
+    "introtext": "Microcopy refers to tiny tidbits of copy, short sentences that tell the user what to do, address user concerns and provide context to your business.",
+    "i1label": "What's your microcopy about?",
+    "i1sampletext": "INK Score of the article achieved 90/100 points",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "The article might be a complete masterpiece, or it might not. Either way, it's all about the writer's creativity, heart, and thinking."
+  },
+  {
+    "forRealease": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Listicles",
+    "url": "seo-listicles",
+    "introtext": "A listicle is a piece of writing or other content presented wholly or partly as part of a list. Have INK AI write your listicle for you!",
+    "i1label": "What is your website copy about?",
+    "i1sampletext": "INK is a solution for founders who want to win at content marketing. We use proprietary AI to analyze the competition for your topic, and to help you create optimized content faster with state of the art AI generation. In this article, I want to talk about some of the benefits of INK.",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "Title: This is What INK Can Do For You\n1. Help you win at content marketing\n2. Save time creating optimized content\n3. Analyze your competition and score your content\n4. Show you how you can improve your content",
+    "qacomments": "Line is not break "
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Subheader Text",
+    "url": "subheading",
+    "introtext": "Provide a concept, and INK will generate a subheading for it.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "After validating on-Page SEO for multiple Page Templates and identifying critical bugs and optimization opportunities  pre-go live, performance for multiple pages improved an average of 33%, to meet site average scores.",
+    "i1minlength": 35,
+    "i1maxlength": 380,
+    "sampleoutput": "On-Page SEO Analysis: Improving Performance Following Validations"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Bullet Text",
+    "url": "bullet-text",
+    "introtext": "Include lists in your content to draw people in and to improve user engagement.",
+    "i1label": "Brief concept:",
+    "i1sampletext": "SEO Web Content Writing Editor Powered by AI",
+    "i1minlength": 35,
+    "i1maxlength": 280,
+    "sampleoutput": "- Use the INK Distraction-Free Editor to write engaging content\n- Eliminate Writers' block with AI\n- Know exactly how to beat Google with your content\n- Use Emotional Intelligence to make your headlines pop"
+  },
+  {
+    "forRealease": false,
+    "master": "❌",
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Image Captions",
+    "url": "image-caption",
+    "introtext": "Generate a caption for your article image - social media style.",
+    "i1label": "What is your image about?",
+    "i1sampletext": "INK is product of the month in Product Hunt!",
+    "i1minlength": 35,
+    "i1maxlength": 200,
+    "sampleoutput": "AWARDS SEASON: Check out what Product Hunt has to say about INK!"
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Meta Descriptions",
+    "url": "meta-descriptions",
+    "introtext": "Generate optimized and relevant meta description for your content.",
+    "i1label": "Your article title",
+    "i1sampletext": "Parts of Speech Checker Tool | INK",
+    "i1minlength": 20,
+    "i1maxlength": 200,
+    "i2label": "Your primary keyphrase for which you want to be found",
+    "i2sampletext": "parts of speech tool",
+    "i2minlength": 4,
+    "i2maxlength": 35,
+    "sampleoutput": "Use the nouns and pronouns in a sentence to find the preposition. INK Parts of Speech Checker tool can help identify word classes in a sentence."
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Call To Action",
+    "url": "cta-in-website-generator",
+    "introtext": "CTA's are short, powerful messages to get your audience to take action.",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "Get higher conversion rates for your web copy with INK emotional intelligence AI",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Sign up now and learn how you can increase your conversion rates today."
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": true,
+    "master": true,
+    "category": "SEM",
+    "subcategory": "-",
+    "toolName": "PPC Ad Headlines",
+    "url": "google-ads-headlines",
+    "introtext": "Generate your Google PPC Ad Headline Text",
+    "i1label": "Product Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "SEO Web Content Writing and Optimization Powered by AI\n",
+    "i2minlength": 35,
+    "i2maxlength": 280,
+    "sampleoutput": "Quickly get in front of your target audience and increase your online presence!"
+  },
+  {
+    "forRealease": true,
+    "master": "❌",
+    "category": "Website Copy",
+    "subcategory": "-",
+    "toolName": "Landing Page Hero Text",
+    "url": "squeeze-landing-page-hero-text",
+    "introtext": "Get top converting landing pages with above-the-fold copy that helps you stand out.",
+    "i1label": "Name",
+    "i1sampletext": "INK",
+    "i1minlength": 0,
+    "i1maxlength": 60,
+    "i2label": "Brief Concept",
+    "i2sampletext": "AI tools that write your landing page headlines for you.",
+    "i2minlength": 20,
+    "i2maxlength": 200,
+    "sampleoutput": "AI-Powered Headline Writing Software. Learn how to make more money with less time.",
+    "qacomments": "Name should be l1 title "
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  },
+  {
+    "forRealease": false
+  }
+]
