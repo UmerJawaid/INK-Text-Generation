@@ -1,6 +1,7 @@
 {
     "projectId": "3c3m67",
     "env": {
+        "Local_env": "http://localhost:3000/tools",
         "Test_env": "https://testing.inkforall.com/tools"
     }
 }

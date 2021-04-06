@@ -1,7 +1,7 @@
 before(function () {
     cy.fixture('sheetData').then(function (data) {
         this.data = data;
-        cy.visit(Cypress.env('Test_env'))
+        cy.visit(Cypress.env('Local_env'))
 
     })
 })
@@ -10,7 +10,7 @@ describe('Test twitter image caption page.', function () {
     it('Select page and assert url', function () {
         cy.get('#item-1-dropdown').invoke('show');
         cy.contains('Image Captions').click();
-        cy.url().should('eq', Cypress.env('Test_env') + '/' + this.data[1].url + '/')
+        cy.url().should('eq', Cypress.env('Local_env') + '/' + this.data[1].url + '/')
     })
     it('Verify Tool Name', function () {
         cy.get('.formHeader > .title').should('have.text', this.data[1].toolName)
@@ -43,7 +43,7 @@ describe('Test twitter image caption page.', function () {
     })
 
     it('Visit the page with user id', function () {
-        cy.visit('https://testing.inkforall.com/tools/twitter-image-caption/?code=4ds34s-231sed2-123sde-32s2332')
+        cy.visit('Local_env' + '/tools/twitter-image-caption/?code=4ds34s-231sed2-123sde-32s2332')
         cy.get('.diamondPlusAddBtn').should('be.visible')
         cy.get('textarea') && cy.get('textarea').type('Too ', { force: true });
         cy.get('.formButton', { force: true }).click()
