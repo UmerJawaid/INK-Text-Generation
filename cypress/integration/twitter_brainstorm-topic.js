@@ -41,7 +41,7 @@ describe('Test twitter image caption page.', function () {
   })
 
   it('Visit the page with user id', function () {
-    cy.visit('Local_env' + '/tools/twitter-topic-brainstorm/?code=4ds34s-231sed2-123sde-32s2332')
+    cy.visit('Test_env' + '/tools/twitter-topic-brainstorm/?code=4ds34s-231sed2-123sde-32s2332')
     cy.get('.diamondPlusAddBtn').should('be.visible')
     cy.get('textarea') && cy.get('textarea').type('Too ', { force: true });
     cy.get('.formButton', { force: true }).click()
