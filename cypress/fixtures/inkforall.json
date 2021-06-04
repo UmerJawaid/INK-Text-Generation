@@ -1,0 +1,212 @@
+[
+  {
+    "index": 1,
+    "location": "Header",
+    "buttonName": "Home Page",
+    "testurl": "https://testing.inkforall.com/",
+    "produrl": "https://inkforall.com/"
+  },
+  {
+    "index": 2,
+    "location": "Header",
+    "buttonName": "Ink Editor",
+    "testurl": "https://ink-test.seo.app/downloads",
+    "produrl": "https://ink.seo.app/downloads"
+  },
+  {
+    "index": 3,
+    "location": "Header",
+    "buttonName": "AI Writing Tools",
+    "testurl": "https://testing.inkforall.com/writing-tools",
+    "produrl": "https://nkforall.com/writing-tools"
+  },
+  {
+    "index": 4,
+    "location": "Header",
+    "buttonName": "Resources",
+    "testurl": "https://testing.inkforall.com/questions-answers",
+    "produrl": "https://inkforall.com/questions-answers"
+  },
+  {
+    "index": 5,
+    "location": "Header",
+    "buttonName": "Pricing",
+    "testurl": "https://testing.inkforall.com/pricing",
+    "produrl": "https:/inkforall.com/pricing"
+  },
+  {
+    "index": 6,
+    "location": "Header",
+    "buttonName": "Login",
+    "testurl": "https://auth-test.inkforall.com/?",
+    "produrl": "https://auth.inkforall.com/?"
+  },
+  {
+    "index": 7,
+    "location": "Header",
+    "buttonName": "Signup",
+    "testurl": "https://auth-test.inkforall.com/?",
+    "produrl": "https://auth.inkforall.com/?"
+  },
+  {
+    "index": 8,
+    "location": "Header",
+    "buttonName": "USE INK FREE FOREVER",
+    "testurl": "https://ink-test.seo.app/downloads",
+    "produrl": "https://ink.seo.app/downloads"
+  },
+  {
+    "index": 9,
+    "location": "Header",
+    "buttonName": "Windows",
+    "testurl": "https://ink.seo.app/downloads",
+    "produrl": "https://ink.seo.app/downloads"
+  },
+  {
+    "index": 10,
+    "location": "Header",
+    "buttonName": "Mac",
+    "testurl": "https://ink.seo.app/downloads",
+    "produrl": "https://ink.seo.app/downloads"
+  },
+  {
+    "index": 11,
+    "location": "Header",
+    "buttonName": "Linux",
+    "testurl": "https://ink.seo.app/downloads",
+    "produrl": "https://ink.seo.app/downloads"
+  },
+  {
+    "index": 12,
+    "location": "Footer",
+    "buttonName": "Twitter",
+    "testurl": "https://twitter.com/INKcoINC",
+    "produrl": "https://twitter.com/INKcoINC"
+  },
+  {
+    "index": 13,
+    "location": "Footer",
+    "buttonName": "Product Hunt",
+    "testurl": "https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6",
+    "produrl": "https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6"
+  },
+  {
+    "index": 14,
+    "location": "Footer",
+    "buttonName": "Facebook",
+    "testurl": "https://www.facebook.com/inkcoinc",
+    "produrl": "https://www.facebook.com/inkcoinc"
+  },
+  {
+    "index": 15,
+    "location": "Footer",
+    "buttonName": "Instagram",
+    "testurl": "https://www.instagram.com/INKcoINC/",
+    "produrl": "https://www.instagram.com/INKcoINC/"
+  },
+  {
+    "index": 16,
+    "location": "Footer",
+    "buttonName": "Linked in",
+    "testurl": "https://www.linkedin.com/company/inkcoinc",
+    "produrl": "https://www.linkedin.com/company/inkcoinc"
+  },
+  {
+    "index": 17,
+    "location": "Footer",
+    "buttonName": "How Ink Works",
+    "testurl": "https://testing.inkforall.com/how-it-works",
+    "produrl": "https://inkforall.com/how-it-works"
+  },
+  {
+    "index": 18,
+    "location": "Footer",
+    "buttonName": "Pricing",
+    "testurl": "https://testing.inkforall.com/pricing",
+    "produrl": "https://inkforall.com/pricing"
+  },
+  {
+    "index": 19,
+    "location": "Footer",
+    "buttonName": "Help Center",
+    "testurl": "https://help.inkforall.com/en/",
+    "produrl": "https://help.inkforall.com/en/"
+  },
+  {
+    "index": 20,
+    "location": "Footer",
+    "buttonName": "Status Page",
+    "testurl": "https://status.inkforall.com/",
+    "produrl": "https://status.inkforall.com/"
+  },
+  {
+    "index": 21,
+    "location": "Footer",
+    "buttonName": "Privacy Policy",
+    "testurl": "https://testing.inkforall.com/privacy",
+    "produrl": "https://inkforall.com/privacy"
+  },
+  {
+    "index": 22,
+    "location": "Footer",
+    "buttonName": "Terms of services",
+    "testurl": "https://testing.inkforall.com/terms",
+    "produrl": "https://inkforall.com/terms"
+  },
+  {
+    "index": 23,
+    "location": "Footer",
+    "buttonName": "About",
+    "testurl": "https://testing.inkforall.com/about-us",
+    "produrl": "https://inkforall.com/about-us"
+  },
+  {
+    "index": 24,
+    "location": "Footer",
+    "buttonName": "Our History",
+    "testurl": "https://testing.inkforall.com/our-history",
+    "produrl": "https://inkforall.com/our-history"
+  },
+  {
+    "index": 25,
+    "location": "Footer",
+    "buttonName": "Blog",
+    "testurl": "https://blog.inkforall.com/",
+    "produrl": "https://blog.inkforall.com/"
+  },
+  {
+    "index": 26,
+    "location": "Footer",
+    "buttonName": "Press",
+    "testurl": "https://testing.inkforall.com/press",
+    "produrl": "https://inkforall.com/press"
+  },
+  {
+    "index": 27,
+    "location": "Footer",
+    "buttonName": "Free Tools",
+    "testurl": "https://testing.inkforall.com/writing-tools",
+    "produrl": "https://inkforall.com/writing-tools"
+  },
+  {
+    "index": 28,
+    "location": "Footer",
+    "buttonName": "Developer API",
+    "testurl": "https://inkcontent.github.io/dev-manual/getting-started/quickStart.html#",
+    "produrl": "https://inkcontent.github.io/dev-manual/getting-started/quickStart.html#"
+  },
+  {
+    "index": 29,
+    "location": "Footer",
+    "buttonName": "ink_",
+    "testurl": "https://testing.inkforall.com/",
+    "produrl": "https://inkforall.com/"
+  },
+  {
+    "index": 30,
+    "location": "Header",
+    "buttonName": "ink_",
+    "testurl": "https://testing.inkforall.com/",
+    "produrl": "https://inkforall.com/"
+  }
+]

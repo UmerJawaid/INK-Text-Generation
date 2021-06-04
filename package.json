@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Cypress run"
+    "test": "Cypress run",
+    "cypress:open": "cypress open"
   },
   "author": "Umer",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^6.8.0",
-    "cypress-localstorage-commands": "^1.4.1"
+    "cypress-localstorage-commands": "^1.4.1",
+    "cypress-xpath": "^1.6.2"
   },
   "dependencies": {
     "dotenv": "^8.2.0"
