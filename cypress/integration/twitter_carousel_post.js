@@ -83,3 +83,27 @@ describe('Test twitter image caption page.', function () {
   })
 
 })
+ //   //Header
+  //   it('Verify HomePage url', function () {
+  //     cy.url().should('eq', this.data[0].testurl)
+  //   })
+
+  // it('Redirect to AI Writing Tools ', function () {
+  //   cy.xpath('//body/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]').click()
+  //   cy.url().should('contain', 'ink_visit_id').should('contain', 'session_id').should('contain', '/writing-tools')
+  //   cy.get('h1').should('contain', "How INK can help you write faster")
+
+  // })
+  // it('Redirect to Resources ', function () {
+  //   cy.xpath('//body/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]').click()
+  //   cy.url().should('contain', 'ink_visit_id').should('contain', 'session_id').should('contain', 'questions-answers/')
+  //   cy.get('h1').should('contain', "Live Questions & Answers")
+  // })
+  // it('Redirect to pricing ', function () {
+  //   cy.xpath('//body/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]/span[1]').click()
+  //   cy.url().should('contain', 'ink_visit_id').should('contain', 'session_id').should('contain', '/pricing/')
+  //   cy.get('h1').should('contain', "Write Content That Performs")
+
+  // })
+
+  // })

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "Cypress run",
-    "cypress:open": "cypress open"
+    "cypress:open": "Cypress open",
+    "testinkforall": "Cypress run url_arrestion"
   },
   "author": "Umer",
   "license": "ISC",
